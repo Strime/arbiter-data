@@ -1,12 +1,12 @@
 ---
-title: Politique de confidentialité — Arbiter
+title: Politique de confidentialité — Cocarde
 ---
 
-# Politique de confidentialité — Arbiter
+# Politique de confidentialité — Cocarde
 
 *Dernière mise à jour : 13 août 2026*
 
-Arbiter est une extension de navigateur qui affiche l'origine (marque et fabrication)
+Cocarde est une extension de navigateur qui affiche l'origine (marque et fabrication)
 des produits sur les sites de drive français. Elle est conçue pour fonctionner
 **entièrement en local**.
 
