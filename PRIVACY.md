@@ -1,3 +1,7 @@
+---
+title: Politique de confidentialité — Arbiter
+---
+
 # Politique de confidentialité — Arbiter
 
 *Dernière mise à jour : 13 août 2026*
