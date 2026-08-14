@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "2026-08-14.1312",
+  "dataVersion": "2026-08-14.1321",
   "url": "https://strime.github.io/arbiter-data/data/brands.json",
-  "sha256": "7f64852a6edd9ab0f43b49c745c68876cd377a0581b00a4a71fb79ca636d665f",
-  "sizeBytes": 511060,
+  "sha256": "91a70d363bb5c19500cb2904ffaef65cec3d31c770100b016830e4eee0a131bb",
+  "sizeBytes": 511465,
   "minExtensionVersion": "0.1.0",
-  "publishedAt": "2026-08-14T13:12:13.342Z"
+  "publishedAt": "2026-08-14T13:21:31.195Z"
 }
